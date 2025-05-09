@@ -115,4 +115,8 @@ This is primarily a learning repository, but collaboration and suggestions are a
 * The ALU (African Leadership University) team and curriculum.
 * The creators and maintainers of React, Webpack, and all the other fantastic open-source tools we use.
 
+## Author
+
+**William Daniels**([w.daniels@alustudent.com](mailto:w.daniels@alustudent.com))
+
 Happy coding! Let's build some amazing things with React!
