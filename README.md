@@ -117,6 +117,6 @@ This is primarily a learning repository, but collaboration and suggestions are a
 
 ## Author
 
-**William Daniels**([w.daniels@alustudent.com](mailto:w.daniels@alustudent.com))
+**Willie Daniels**([w.daniels@alustudent.com](mailto:w.daniels@alustudent.com))
 
 Happy coding! Let's build some amazing things with React!
